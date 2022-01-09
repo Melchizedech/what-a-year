@@ -1,0 +1,73 @@
+- month: 01
+  year: 2022
+  day: 01
+  title: Agnès Buzyn et le drapeau européen
+  dramas:
+    - link: https://www.francetvinfo.fr/sante/maladie/coronavirus/legion-d-honneur-2022-le-president-du-conseil-scientifique-jean-francois-delfraissy-et-l-ex-ministre-de-la-sante-agnes-buzyn-recompenses_4900751.html
+      source: France TV
+      description: Agnès Buzyn promue Chevalier de la Légion d'honneur
+    - link: https://www.leparisien.fr/politique/polemique-apres-lapparition-du-drapeau-europeen-sous-larc-de-triomphe-01-01-2022-O3IVUYLASFCMXDIUYO7MR5ZV7I.php
+      description: Le drapeau européen est affiché seul sous l'Arc de Triomphe
+      source: Le Parisien
+- month: 01
+  year: 2022
+  day: 02
+  title: Protocole sanitaire en école et parlement sud africain
+  dramas:
+    - link: https://www.lemonde.fr/afrique/article/2022/01/02/afrique-du-sud-un-violent-incendie-devaste-le-parlement-du-cap_6107939_3212.html
+      source: Le Monde
+      description: Le parlement sud-africain a brûlé
+    - link: https://www.leparisien.fr/societe/covid-19-a-lecole-tests-capteurs-co2-le-protocole-sanitaire-devoile-par-jean-michel-blanquer-02-01-2022-AHXD7DWDPJC7FIQJLUZT25I5VY.php
+      description: Jean-Michel Blanquer dévoile le nouveau protocole sanitaire la veille de la rentrée dans un journal
+      source: Le Parisien
+- month: 01
+  year: 2022
+  day: 03
+  title: Mensonge, perroquet et suspension surprise à l'assemblée
+  dramas:
+    - link: https://twitter.com/LCI/status/1478094592054546436
+      source: LCI
+      description: Le journaliste Paul Larrouturou recueille des témoignages au sein d'une manifestation anti-pass vaccinal
+    - link: https://www.lemonde.fr/politique/article/2022/01/03/passe-vaccinal-l-examen-du-projet-de-loi-commence-par-des-debats-houleux-a-l-assemblee-nationale_6108065_823448.html
+      description: Suspension de la séance d'examen du PJL Pass Vaccinal suite à un vote remporté par l'opposition
+      source: Le Monde
+
+- month: 01
+  year: 2022
+  day: 04
+  title: Emmanuel Macron « a très envie d'emmerder » les non vaccinés, l'assemblée interrompt encore les débats
+  dramas:
+    - link: https://www.bfmtv.com/sante/macron-charge-les-non-vaccines-j-ai-tres-envie-de-les-emmerder-on-va-continuer-de-le-faire_AV-202201040466.html
+      source: BFM TV
+      description: Emmanuel Macron annonce dans une interview (qui n'aurait dû sortir qu'après l'adoption par l'assemblée du PJL) qu'il souhaite « emmerder » les non-vaccinés
+    - link: https://www.francetvinfo.fr/sante/maladie/coronavirus/direct-pass-vaccinal-le-calendrier-du-gouvernement-menace-apres-la-suspension-a-l-assemblee_4903723.html
+      description: Suite à cela, les députés interrompent les débats, demandant des explications, qui ne viendront pas, le premier ministre Jean Castex ne se déplacera pas à l'Assemblée.
+      source: France TV
+
+- month: 01
+  year: 2022
+  day: 05
+  title: Valérie Pécresse veut « ressortir le Kärcher de la cave »
+  dramas:
+    - link: https://www.lepoint.fr/politique/valerie-pecresse-je-vais-ressortir-le-karcher-de-la-cave-06-01-2022-2459364_20.php
+      source: Le Point
+      description: Valérie Pécresse reprend une expression de Nicolas Sarkozy en annoçant vouloir ressortir le Kärcher
+- month: 01
+  year: 2022
+  day: 06
+  title: Obligation vaccinale en Italie
+  dramas:
+    - link: https://www.bfmtv.com/international/europe/italie/italie-le-gouvernement-instaure-l-obligation-vaccinale-pour-les-plus-de-50-ans_AD-202201050528.html
+      source: BFM TV
+      description: L'Italie instaure l'obligation vaccinale pour les plus de 50 ans.
+- month: 01
+  year: 2022
+  day: 07
+  title: La crevette, nouvelle héroïne du Brésil et feu sans sommation au Kazakhstan
+  dramas:
+    - link: https://www.huffingtonpost.fr/entry/pourquoi-les-bresiliens-partagent-des-crevettes-sur-les-reseaux-sociaux_fr_61d80305e4b061afe3b10e31
+      source: Huffington Post
+      description: L'hospitalisation de Jair Bolsonaro le 4 janvier serait dûe à une crevette
+    - link: https://www.france24.com/fr/asie-pacifique/20220107-manifestations-au-kazakhstan-l-ordre-est-largement-r%C3%A9tabli-selon-le-pr%C3%A9sident
+      source: France24
+      description: Le président kazakh Kassym-Jomart Tokaïev autorise les forces de l'ordre à ouvrir le feu sans avertissement pour mettre un terme aux émeutes.
