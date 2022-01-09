@@ -329,7 +329,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-feed (~> 0.12)
   minima (~> 2.5)
   reek (~> 6.0)
   rubocop (~> 1.24)
