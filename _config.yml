@@ -30,7 +30,7 @@ url: "https://melchizedech.github.io" # the base hostname & protocol for your si
 github_username: melchizedech
 
 # Build settings
-theme: minima
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 # Exclude from processing.
