@@ -33,6 +33,15 @@ show_excerpts: true
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - year
+    - month
+  layouts:
+    year: year-archive
+    month: month-archive
 
 # Exclude from processing.
 # The following items will not be processed, by default.
